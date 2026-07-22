@@ -130,7 +130,7 @@ La aplicación se abrirá automáticamente en `http://localhost:8501`.
 
 ## Demo
 
-**Enlace a la aplicación:** _(agregar aquí)_
+**Enlace a la aplicación:** (https://elianac27-agenteia-ec-app-c4ewj9.streamlit.app/)
 
 **Captura de pantalla:**
 
