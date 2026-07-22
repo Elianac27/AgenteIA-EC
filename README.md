@@ -86,7 +86,7 @@ Ejemplo: Un incidente de 20 minutos que afecta al 100% de los usuarios consume 2
 Referencia
 Documento: PROTOCOLO DE RESPUESTA A INCIDENTES Y POST-MORTEMS.pdf
 Página: 30 y 31
-Sección: 13. ERROR BUDGET: DEFINICIÓN, CÁLCULO Y POLÍTICA DE AGOTAMIENTO
+Sección: 13. ERROR BUDGET: DEFINICIÓN, CÁLCULO Y POLÍTICA DE AGOTAMIENTOstreamlit run app.py
 
 ## Cómo correr el proyecto
 
